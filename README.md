@@ -1,0 +1,2 @@
+# FuriganaApp
+For FuriganaApp
